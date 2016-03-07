@@ -2,10 +2,11 @@
 This is an example application of how to use Maps Api in Android
 
 ### Maps Api used
-``map.addMarker
-map.setMapType
-map.addCircle
-map.addPolygon
+``
+* map.addMarker
+* map.setMapType
+* map.addCircle
+* map.addPolygon
 ``
 
 ## Install
